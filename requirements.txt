@@ -4,3 +4,5 @@ matplotlib
 scipy
 networkx
 packaging
+streamlit
+pandas
