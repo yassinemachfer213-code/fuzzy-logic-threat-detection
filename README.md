@@ -23,6 +23,13 @@ La base contient 11 règles floues, communes aux deux méthodes.
 1. Installer les bibliothèques : `pip install -r requirements.txt`
 2. Lancer le programme : `python fuzzy_menace.py`
 
+## Application de démonstration
+
+Interface interactive avec des curseurs : elle affiche la menace Mamdani et Sugeno en direct,
+avec les étapes du calcul (fuzzification, règles activées, défuzzification, Sugeno).
+
+python -m streamlit run app.py
+
 ## Résultats
 
 ### Fonctions d'appartenance
