@@ -28,8 +28,7 @@ La base contient 11 règles floues, communes aux deux méthodes.
 Interface interactive avec des curseurs : elle affiche la menace Mamdani et Sugeno en direct,
 avec les étapes du calcul (fuzzification, règles activées, défuzzification, Sugeno).
 
-python -m streamlit run app.py
-
+`python -m streamlit run app.py`
 ## Résultats
 
 ### Fonctions d'appartenance
